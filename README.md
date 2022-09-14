@@ -29,6 +29,7 @@ Saturday has the highest number of death compared to other days. Friday, Saturda
 ![Output/day_hour_fatals.png](Output/day_hour_fatals.png)
 
 Male involved in more fatal crashes than female, about 2.6x times higher.
+
 ![Output/drivers_gender.png](Output/drivers_gender.png)
 
 In conclusion, road traffic didn't become safer in the last 10 years. During the pandemic in 2020, the fatality rate increased significantly compared to previous years. Motor vehicle driving is still manual and mainly depends on the driver's behaviours and the environmental situation.
