@@ -1,7 +1,13 @@
 # Motor_vehicles_crashes_data_analytics
 
 Road traffic is the most common traffic in the world. We commute daily using cars, motorbikes, or buses ... How safe for us to go out of the house and enter road traffic? Does road traffic become safer in the last ten years? Which states have the most incidents? What are some of the high-risk factors involved in vehicle crashes?
-I used the dataset from https://crashviewer.nhtsa.dot.gov/CrashAPI/ to get the crash data in the USA for the last ten years. The data is available through APIs, so we can stay updated when new data becomes available. The raw data was then cleaned and visualised using charts and a heat map. Some of the key findings are shown below.
+I used the dataset from https://crashviewer.nhtsa.dot.gov/CrashAPI/ to get the crash data in the USA for the last ten years. The data is available through APIs, so we can stay updated when new data becomes available. The raw data was then cleaned and visualised using charts and a heat map. 
+
+The codes are separated in 2 parts:
+- API data pulling and cleaning is in part 1.
+- Data visualization using Pandas and Matplotlib in part 2.
+
+**Some of the key findings are shown below.**
 
 The total number of crashes increased from 2010 to 2019 and dropped in 2020 due to the Covid 19 pandemic. However, the number of fatal crashes still increased in 2020, although the total number of hits decreased. On average, ~5.5-6 people died in every 1000 crashes from 2010-2019. This number increased to 7.5 death per thousand crashes in 2020.
 ![Output/crash_over_year.png](Output/crash_over_year.png)
