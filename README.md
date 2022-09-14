@@ -32,3 +32,5 @@ Male involved in more fatal crashes than female, about 2.6x times higher.
 ![Output/drivers_gender.png](Output/drivers_gender.png)
 
 In conclusion, road traffic didn't become safer in the last 10 years. During the pandemic in 2020, the fatality rate increased significantly compared to previous years. Motor vehicle driving is still manual and mainly depends on the driver's behaviours and the environmental situation.
+
+**Note**: The heatmap was generated using gmaps. A valid google key must be provided for this map to work. Due to confidentiality, the google map API key is not provided in the code.
